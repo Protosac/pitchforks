@@ -1,10 +1,5 @@
+help.js
 node_modules/
-bower-components/
 npm-debug.log
-appspec.yml
-pitchforks.sublime-project
-TODO.md
-deps.md
-alt/
-__pycache__/
-*.pyc
+.idea/
+__pycache__
